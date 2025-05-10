@@ -1,0 +1,21 @@
+header{
+    color: lightblue;
+    margin-bottom: 5px;
+    text-align: center;
+    font-size: 40px;
+}
+.line{
+    border:none;
+    height:2px;
+    background-color: lightblue;
+    margin:20px 0;
+}
+
+    main{
+    width: 35%;
+    margin: 20px auto;
+    background:lightblue;
+    padding: 40px;
+    box-shadow: 40px 0 40px rgba(0, 0, 0, 0.1);
+    border-radius: 50px;
+}
